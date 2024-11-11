@@ -1,4 +1,4 @@
-# Audio Visualizer
+# Sigma Visualizer
 
 This project is an interactive audio visualizer that uses HTML5, JavaScript, and the Web Audio API to create a dynamic, particle-based liquid effect visualizer. The particles react to the audio data from a file input and simulate fluid movement with pulsating and glowing effects.
 
@@ -33,7 +33,7 @@ This project is an interactive audio visualizer that uses HTML5, JavaScript, and
 
 ## Demo
 
-You can view a live demo of the project at (demo)[].
+You can view a live demo of the project at [Sigma Visualizer](https://sigma-visualizer.pages.dev).
 
 ## Contributing
 
